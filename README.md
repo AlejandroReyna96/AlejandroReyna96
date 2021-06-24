@@ -39,6 +39,3 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/typescript.png' height='42px'>
 </p>
-
-<h2 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
