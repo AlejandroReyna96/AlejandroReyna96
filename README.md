@@ -2,8 +2,6 @@
 
 # Acerca de mi
 CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)  
-
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🌎 Astronomy, and 🧪 Chemistry.  
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
