@@ -5,7 +5,7 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
   
 ![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
 
-**Contact me on Discord: Sammwy#0001**
+**Contactame en Discord: Sammwy#0001**
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
