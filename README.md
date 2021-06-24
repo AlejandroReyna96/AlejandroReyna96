@@ -8,7 +8,7 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 **Contactame en Discord: Sammwy#0001**
 
 <h2 align="center">Proyectos</h2>
-<p align="center">Take a look at my most outstanding projects.</p>
+<p align="center">echa un vistazo a mis proyectos persionales</p>
   
 | <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
 | :---: | :---: | :---: | :---: |
