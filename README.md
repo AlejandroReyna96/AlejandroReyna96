@@ -15,8 +15,8 @@ CEO on [2LStudios](https://twitter.com/2lstudios), [SlickLearn](https://twitter.
 | <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
 | <a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> |
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I participate.</p>
+<h2 align="center">Organización</h2>
+<p align="center">Lugar de trabajo</p>
 
 | <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**ArkFlame**</a> |
 |:---: | :---: | :---: | :---:|
